@@ -3,6 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
+// Description
 var twoSum = function (nums, target) {
   const number = [];
   var soln1;
