@@ -2,6 +2,8 @@
  * @param {string} s
  * @return {number}
  */
+// todo:
+// *try this with another language
  var lengthOfLongestSubstring = function(s) {
      var number = 0;
      var substrings = []
